@@ -1,0 +1,13 @@
+/*
+**Plugin default CSS
+*/
+.cpm_search_form , .cpm_color_details {float: left;width: 100%;margin-bottom: 50px;}
+.cpm_title ,.cpm_page_title{margin-bottom: 30px;}
+.cpm_main_content {margin-bottom: 50px;}
+#cpm_post_result {margin: 40px 0;float: left;width: 100%;}
+.cpm_featured_color { float: left;width: 100%; min-height: 150px; }
+/*.cpm_post_nav { float: left; width: 100%;}*/
+.cpm_post_prev { float: left; text-align: left;}
+.cpm_post_next { float: right; text-align: right;}
+.cpm_backto_archive {  margin: 30px 0;}
+.cpm_post_nav { float: left;  width: 100%;padding: 30px 0;}
